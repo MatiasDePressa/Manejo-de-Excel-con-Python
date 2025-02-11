@@ -48,7 +48,7 @@ El script realiza los siguientes pasos:
 
 A continuación, se muestra una imagen de ejemplo de cómo luce el archivo generado:
 
-![Ejemplo de resultados.xlsx](imagenejemplo.jpg)
+![Ejemplo de resultados.xlsx](imagenejemplo.png)
 
 ## Mejoras Posibles
 
